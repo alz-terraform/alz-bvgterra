@@ -10,6 +10,7 @@ terraform {
     use_azuread_auth     = true
     subscription_id      = "6d87c7b7-b73c-42a5-b979-628239b936e3"
     tenant_id            = "c1debd98-c481-4e51-b286-f6eda8fcea48"
+
   }
 }
 
